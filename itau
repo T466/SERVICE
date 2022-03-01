@@ -1,6 +1,0 @@
-#!/bin/bash
-
-clear;
-echo; echo "   O ITAU FOI FEITO PARA VOCE!"
-
-sleep 3
