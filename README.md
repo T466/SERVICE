@@ -1,2 +1,0 @@
-# SERVICE
-Serviços comuns
