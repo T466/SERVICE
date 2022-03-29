@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 for (( loop=1;loop>0;loop++));do
