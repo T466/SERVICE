@@ -7,14 +7,12 @@ if [ ! -e "/data" ]; then
 
 hoje=$(date +%d%m%Y-%H%M%S)
 mkdir /data
-mkdir /data/folder-$hoje
 ls -la /etc > /data/file-$hoje
 sleep 1
 
    else
 
 hoje=$(date +%d%m%Y-%H%M%S)
-mkdir /data/folder-$hoje
 ls -la /etc > /data/file-$hoje
 sleep 1
 
